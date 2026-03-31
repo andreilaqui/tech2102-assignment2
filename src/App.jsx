@@ -7,6 +7,7 @@ function App() {
     <>
         <div>
           <h1>Andrei Laqui</h1>
+          <h4>TECH2102 : Enterprise Computing</h4>
           <p>
             
           </p>
